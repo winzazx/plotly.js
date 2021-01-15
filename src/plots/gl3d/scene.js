@@ -134,8 +134,6 @@ proto.prepareOptions = function() {
     return opts;
 };
 
-var firstInit = true;
-
 proto.tryCreatePlot = function() {
     var scene = this;
 
@@ -143,36 +141,7 @@ proto.tryCreatePlot = function() {
 
     var success = true;
 
-    try {
-        scene.glplot = createPlot(opts);
-    } catch(e) {
-        if(scene.staticMode || !firstInit || preserveDrawingBuffer) {
-            success = false;
-        } else { // try second time
-            // enable preserveDrawingBuffer setup
-            // in case is-mobile not detecting the right device
-            Lib.warn([
-                'webgl setup failed possibly due to',
-                'false preserveDrawingBuffer config.',
-                'The mobile/tablet device may not be detected by is-mobile module.',
-                'Enabling preserveDrawingBuffer in second attempt to create webgl scene...'
-            ].join(' '));
-
-            try {
-                // invert preserveDrawingBuffer
-                preserveDrawingBuffer = opts.glOptions.preserveDrawingBuffer = true;
-
-                scene.glplot = createPlot(opts);
-            } catch(e) {
-                // revert changes to preserveDrawingBuffer
-                preserveDrawingBuffer = opts.glOptions.preserveDrawingBuffer = false;
-
-                success = false;
-            }
-        }
-    }
-
-    firstInit = false;
+    scene.glplot = createPlot(opts);
 
     return success;
 };
