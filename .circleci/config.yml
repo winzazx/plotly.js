@@ -33,8 +33,6 @@ jobs:
           command: |
             npm run pretest
             npm run cibuild
-      - run:
-          command: rm -rf .git
       - persist_to_workspace:
           root: /home/circleci
           paths:
@@ -170,6 +168,9 @@ jobs:
             echo https://$CIRCLE_BUILD_NUM-$PROJECT_NUM-gh.circle-artifacts.com/0/dist/plotly.js
             echo https://$CIRCLE_BUILD_NUM-$PROJECT_NUM-gh.circle-artifacts.com/0/dist/plotly.min.js
             echo https://$CIRCLE_BUILD_NUM-$PROJECT_NUM-gh.circle-artifacts.com/0/dist/plot-schema.json
+      - run:
+          name: Display diff between old and new plot-schema
+          command: git diff dist/plot-schema.json
       - run:
           name: Test validation using node.js and jsdom
           command: npm run test-plain-obj
