@@ -56,7 +56,11 @@
     "version": "npm run build && npm run no-bad-char && git add -A lib dist build src/version.js",
     "postversion": "node -e \"console.log('Version bumped and committed. If ok, run: git push && git push --tags')\"",
     "postpublish": "node tasks/sync_packages.js",
-    "postshrinkwrap": "chttps ."
+    "postshrinkwrap": "chttps .",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "binary-search-bounds": "2.0.5"
   },
   "browserify": {
     "transform": [
@@ -171,6 +175,7 @@
     "minify-stream": "^2.1.0",
     "mkdirp": "^1.0.4",
     "node-sass": "^6.0.0",
+    "npm-force-resolutions": "0.0.10",
     "npm-link-check": "^4.0.0",
     "open": "^8.0.7",
     "prepend-file": "^2.0.0",
