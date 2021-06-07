@@ -114,6 +114,7 @@
     "ndarray": "^1.0.19",
     "ndarray-linear-interpolate": "^1.0.0",
     "parse-svg-path": "^0.1.2",
+    "point-in-big-polygon": "^2.0.1",
     "polybooljs": "^1.2.0",
     "probe-image-size": "^7.1.0",
     "regl": "^1.6.1",
