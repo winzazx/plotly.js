@@ -1,0 +1,1175 @@
+{
+  "data": [
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith2"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith3"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith4"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith5"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith6"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith7"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith8"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith9"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith10"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith11"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith12"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith13"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith14"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith15"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith16"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith17"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith18"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith19"
+    },
+    {
+      "type": "scattersmith",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        2
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        250,
+        300,
+        400
+      ],
+      "line": {
+        "color": "#6a3d9a"
+      },
+      "marker": {
+        "color": "#b15928",
+        "size": 10
+      },
+      "subplot": "smith20"
+    }
+  ],
+  "layout": {
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "t": 40,
+      "b": 40
+    },
+    "width": 600,
+    "height": 800,
+    "showlegend": false,
+    "smith": {
+      "sector": [
+        200,
+        400
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0,
+          0.225
+        ],
+        "y": [
+          0.81,
+          1
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith2": {
+      "sector": [
+        300,
+        420
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0,
+          0.225
+        ],
+        "y": [
+          0.6100000000000001,
+          0.79
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith3": {
+      "sector": [
+        240,
+        300
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0,
+          0.225
+        ],
+        "y": [
+          0.41000000000000003,
+          0.5900000000000001
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith4": {
+      "sector": [
+        45,
+        135
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0,
+          0.225
+        ],
+        "y": [
+          0.21000000000000002,
+          0.39
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith5": {
+      "sector": [
+        120,
+        240
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0,
+          0.225
+        ],
+        "y": [
+          0,
+          0.19
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith6": {
+      "sector": [
+        45,
+        375
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.275,
+          0.475
+        ],
+        "y": [
+          0.81,
+          1
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith7": {
+      "sector": [
+        45,
+        80
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.275,
+          0.475
+        ],
+        "y": [
+          0.6100000000000001,
+          0.79
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith8": {
+      "sector": [
+        45,
+        300
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.275,
+          0.475
+        ],
+        "y": [
+          0.41000000000000003,
+          0.5900000000000001
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith9": {
+      "sector": [
+        45,
+        360
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.275,
+          0.475
+        ],
+        "y": [
+          0.21000000000000002,
+          0.39
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith10": {
+      "sector": [
+        45,
+        360
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.275,
+          0.475
+        ],
+        "y": [
+          0,
+          0.19
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith11": {
+      "sector": [
+        180,
+        360
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.525,
+          0.725
+        ],
+        "y": [
+          0.81,
+          1
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith12": {
+      "sector": [
+        0,
+        315
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.525,
+          0.725
+        ],
+        "y": [
+          0.6100000000000001,
+          0.79
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith13": {
+      "sector": [
+        0,
+        225
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.525,
+          0.725
+        ],
+        "y": [
+          0.41000000000000003,
+          0.5900000000000001
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith14": {
+      "sector": [
+        0,
+        270
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.525,
+          0.725
+        ],
+        "y": [
+          0.21000000000000002,
+          0.39
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith15": {
+      "sector": [
+        0,
+        270
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.525,
+          0.725
+        ],
+        "y": [
+          0,
+          0.19
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith16": {
+      "sector": [
+        0,
+        45
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.775,
+          1
+        ],
+        "y": [
+          0.81,
+          1
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith17": {
+      "sector": [
+        0,
+        90
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.775,
+          1
+        ],
+        "y": [
+          0.6100000000000001,
+          0.79
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith18": {
+      "sector": [
+        0,
+        135
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.775,
+          1
+        ],
+        "y": [
+          0.41000000000000003,
+          0.5900000000000001
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith19": {
+      "sector": [
+        0,
+        180
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.775,
+          1
+        ],
+        "y": [
+          0.21000000000000002,
+          0.39
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    },
+    "smith20": {
+      "sector": [
+        -180,
+        200
+      ],
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": [
+          0.775,
+          1
+        ],
+        "y": [
+          0,
+          0.19
+        ]
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ],
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      }
+    }
+  }
+}

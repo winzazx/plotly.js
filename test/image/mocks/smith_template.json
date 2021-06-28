@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "r": [1, 2, 3],
+      "theta": [4, 1, 2],
+      "type": "scattersmith"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "scattersmith": [
+          {
+            "thetaunit": "radians",
+            "marker": {
+              "color": "hotpink",
+              "size": 20
+            },
+            "line": {
+              "color": "cyan"
+            }
+          }
+        ]
+      },
+      "layout": {
+        "smith": {
+          "bgcolor": "black",
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white"
+          }
+        }
+      }
+    }
+  }
+}

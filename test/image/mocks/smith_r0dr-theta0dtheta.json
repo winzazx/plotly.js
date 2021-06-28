@@ -1,0 +1,77 @@
+{
+  "data": [{
+    "type": "scattersmith",
+    "name": "missing θ",
+    "r": [1, 2, 3]
+  }, {
+    "type": "scattersmith",
+    "name": "missing r",
+    "theta": [0, -90, -220]
+  }, {
+    "type": "scattersmith",
+    "name": "set r0/dr",
+    "r0": 5,
+    "dr": -1,
+    "theta": [0, -90, -190]
+  }, {
+    "type": "scattersmith",
+    "name": "set θ<sub>0</sub>/dθ",
+    "r": [1, 2, 3],
+    "theta0": 1,
+    "dtheta": 2,
+    "thetaunit": "radians"
+  },
+
+  {
+    "type": "scattersmithgl",
+    "name": "[gl] missing θ",
+    "subplot": "smith2",
+    "marker": {"color": "#1f77b4"},
+    "r": [1, 2, 3]
+  }, {
+    "type": "scattersmithgl",
+    "name": "[gl] missing r",
+    "subplot": "smith2",
+    "marker": {"color": "#ff7f0e"},
+    "theta": [0, -90, -220]
+  }, {
+    "type": "scattersmithgl",
+    "name": "[gl] set r0/dr",
+    "subplot": "smith2",
+    "marker": {"color": "#2ca02c"},
+    "r0": 5,
+    "dr": -1,
+    "theta": [0, -90, -190]
+  }, {
+    "type": "scattersmithgl",
+    "name": "[gl] set θ<sub>0</sub>/dθ",
+    "subplot": "smith2",
+    "marker": {"color": "#d62728"},
+    "r": [1, 2, 3],
+    "theta0": 1,
+    "dtheta": 2,
+    "thetaunit": "radians"
+  }],
+  "layout": {
+    "width": 500,
+    "height": 800,
+    "margin": {"l": 200, "t": 20, "b": 20},
+    "legend": {
+      "x": -0.2,
+      "xanchor": "right",
+      "y": 0.5
+    },
+    "smith": {
+      "domain": {
+        "x": [0, 1],
+        "y": [0.5, 1]
+      }
+    },
+    "smith2": {
+      "domain": {
+        "x": [0, 1],
+        "y": [0, 0.5]
+      }
+    }
+  }
+}

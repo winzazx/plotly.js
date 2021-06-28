@@ -1,0 +1,87 @@
+{
+  "data": [{
+    "type": "scattersmith",
+    "r": [],
+    "theta": []
+  }, {
+    "type": "scattersmith",
+    "r": [],
+    "theta": [],
+    "subplot": "smith2"
+  }, {
+    "type": "scattersmith",
+    "r": [],
+    "theta": [],
+    "subplot": "smith3"
+  }, {
+    "type": "scattersmith",
+    "mode": "markers+text",
+    "r": [0],
+    "theta": [0],
+    "text": "<b>N.B.</b><br>radial<br>auotrange<br>for (0,0)<br>gives [0,1]",
+    "textposition": "left",
+    "subplot": "smith4"
+  }, {
+    "type": "scattersmith",
+    "r": [1, 2, 3],
+    "theta": [0, 90, 200],
+    "subplot": "smith5"
+  }],
+  "layout": {
+    "smith": {
+      "domain": {
+        "x": [0, 0.46],
+        "y": [0.56, 1]
+      },
+      "radialaxis": {
+        "title": {"text": "blank"},
+        "angle": 180
+      }
+    },
+    "smith2": {
+      "domain": {
+        "x": [0, 0.46],
+        "y": [0, 0.44]
+      },
+      "angularaxis": {
+        "showline": true,
+        "showgrid": false,
+        "showticklabels": false,
+        "ticks": ""
+      },
+      "radialaxis": {
+        "showline": false,
+        "showgrid": false,
+        "showticklabels": false,
+        "ticks": ""
+      }
+    },
+    "smith3": {
+      "domain": {
+        "x": [0.54, 1],
+        "y": [0.56, 1]
+      },
+      "radialaxis": {
+        "title": {"text": "blank"},
+        "side": "counterclockwise"
+      },
+      "angularaxis": {"visible": false}
+    },
+    "smith4": {
+      "domain": {
+        "x": [0.54, 1],
+        "y": [0, 0.44]
+      },
+      "radialaxis": {"visible": false}
+    },
+    "smith5": {
+      "domain": {
+        "x": [0.12, 0.34],
+        "y": [0.11, 0.34]
+      }
+    },
+    "showlegend": false,
+    "width": 600,
+    "height": 500
+  }
+}

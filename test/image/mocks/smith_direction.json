@@ -1,0 +1,510 @@
+{
+  "data": [
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith",
+      "text": "sector: 0->360<br>rotation: -90<br>direction: clockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith2",
+      "text": "sector: 0->360<br>rotation: 90<br>direction: clockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith3",
+      "text": "sector: 45->135<br>rotation: 90<br>direction: clockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith4",
+      "text": "sector: 135->225<br>rotation: 90<br>direction: clockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith5",
+      "text": "sector: 135->225<br>rotation: 90<br>direction: counterclockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith6",
+      "text": "sector: 45->135<br>rotation: 90<br>direction: counterclockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith7",
+      "text": "sector: 0->360<br>rotation: 90<br>direction: counterclockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith8",
+      "text": "sector: 0->360<br>rotation: 0<br>direction: clockwise"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "r": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "theta": [
+        0,
+        90,
+        180,
+        360
+      ],
+      "line": {
+        "color": "#ff66ab"
+      },
+      "marker": {
+        "color": "#8090c7",
+        "symbol": "square",
+        "size": 8
+      },
+      "subplot": "smith9",
+      "text": "sector: 0->360<br>rotation: 0<br>direction: counterclockwise"
+    }
+  ],
+  "layout": {
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "t": 40,
+      "b": 40
+    },
+    "width": 600,
+    "height": 800,
+    "showlegend": false,
+    "smith": {
+      "sector": [
+        0,
+        360
+      ],
+      "domain": {
+        "x": [
+          0,
+          0.3
+        ],
+        "y": [
+          0.6833333333333333,
+          1
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": -90,
+        "direction": "clockwise"
+      }
+    },
+    "smith2": {
+      "sector": [
+        0,
+        360
+      ],
+      "domain": {
+        "x": [
+          0,
+          0.3
+        ],
+        "y": [
+          0.35,
+          0.6499999999999999
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 90,
+        "direction": "clockwise"
+      }
+    },
+    "smith3": {
+      "sector": [
+        45,
+        135
+      ],
+      "domain": {
+        "x": [
+          0,
+          0.3
+        ],
+        "y": [
+          0,
+          0.31666666666666665
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 90,
+        "direction": "clockwise"
+      }
+    },
+    "smith4": {
+      "sector": [
+        135,
+        225
+      ],
+      "domain": {
+        "x": [
+          0.36666666666666664,
+          0.6333333333333333
+        ],
+        "y": [
+          0.6833333333333333,
+          1
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 90,
+        "direction": "clockwise"
+      }
+    },
+    "smith5": {
+      "sector": [
+        135,
+        225
+      ],
+      "domain": {
+        "x": [
+          0.36666666666666664,
+          0.6333333333333333
+        ],
+        "y": [
+          0.35,
+          0.6499999999999999
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 90,
+        "direction": "counterclockwise"
+      }
+    },
+    "smith6": {
+      "sector": [
+        45,
+        135
+      ],
+      "domain": {
+        "x": [
+          0.36666666666666664,
+          0.6333333333333333
+        ],
+        "y": [
+          0,
+          0.31666666666666665
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 90,
+        "direction": "counterclockwise"
+      }
+    },
+    "smith7": {
+      "sector": [
+        0,
+        360
+      ],
+      "domain": {
+        "x": [
+          0.7,
+          1
+        ],
+        "y": [
+          0.6833333333333333,
+          1
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 90,
+        "direction": "counterclockwise"
+      }
+    },
+    "smith8": {
+      "sector": [
+        0,
+        360
+      ],
+      "domain": {
+        "x": [
+          0.7,
+          1
+        ],
+        "y": [
+          0.35,
+          0.6499999999999999
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 0,
+        "direction": "clockwise"
+      }
+    },
+    "smith9": {
+      "sector": [
+        0,
+        360
+      ],
+      "domain": {
+        "x": [
+          0.7,
+          1
+        ],
+        "y": [
+          0,
+          0.31666666666666665
+        ]
+      },
+      "radialaxis": {
+        "tickfont": {
+          "size": 8
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "size": 8
+        },
+        "rotation": 0,
+        "direction": "counterclockwise"
+      }
+    }
+  }
+}
