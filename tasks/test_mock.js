@@ -80,6 +80,7 @@ function notBlackListed(name) {
         // has transforms See https://github.com/plotly/plotly.js/issues/4759
         'gl2d_transforms',
         'polar_transforms',
+        'smith_transforms',
         'transforms',
 
         // has contourcarpet See https://github.com/plotly/plotly.js/issues/5669
@@ -224,6 +225,7 @@ function notBlackListed(name) {
         'plot_types',
         'polar_blank',
         'polar_dates',
+        'smith_dates',
         'range_slider_box',
         'shapes_fixed_size',
         'splom_ragged-via-axes',
